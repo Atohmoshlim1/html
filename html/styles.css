@@ -1,0 +1,135 @@
+	
+    .iimg{width: 175px;
+              height:120px;
+        }
+        
+        .iiimg{
+            
+            border-style: double;
+            border: 2px solid rgb(177, 45, 177); 
+            outline: 1px solid rgb(2, 2, 2);
+            width: 80%;
+            
+        }
+        .a{border:2px solid black;
+            border-collapse: collapse;
+        width: 100%;}
+        .b { font-family: Georgia;
+            font-style: italic;
+            color: rgb(152, 10, 108);
+            font-size: 25px;
+            text-shadow: 1.8px 6px 5px rgb(224, 152, 110);
+            padding-bottom: 3cm;
+          
+            vertical-align:50px;}
+        
+        .bluebk {
+            background-color: rgb(60, 60, 121);
+            color: rgb(239, 236, 154);
+            font-size: 11px;
+            text-align: center;
+            border-left: 2px solid black;
+            width: 13%;
+            height: .65cm;
+          
+        }
+        .lightbluebk{
+            background-color: rgb(125, 131, 165);
+            color: rgb(245, 242, 247);
+            width: 13%;
+            text-align: center;
+            border-left: 2px solid black;
+            font-size: 11px;
+            
+            
+        }
+        .u {
+            font-family: sans-serif;
+            width: 100%;
+            border-collapse: collapse;}    
+        .space{
+            background-color: rgb(115, 121, 155);
+            width:3cm;
+            border-left: 1.7px solid black;
+        }  
+        .liftpink{
+            background-color: rgb(234,184,195);
+            width: 100%;
+          margin: 0px;
+        }
+        .liftpinkT{
+            border: 2px;
+            border-style: dotted;
+            border-color: rgb(138, 56, 60);
+            width: 290px;
+            height: 200px;
+            margin:0px;
+
+        }
+        .pa{
+            padding: .25cm .0cm .0cm .4cm;}
+        .pp{padding-top: .2cm;}
+        .paa{padding-left: 1.3cm;}
+        .smtext{
+            font-size: 12px;}
+        .mdtext{
+            font-size: 13px;
+            line-height: 1.4;
+        }
+        .sLhight{line-height: .6}
+        .righty{
+            border-collapse: collapse;
+            background-color: white;
+            width: 100%;
+            height: 200px;
+          
+            
+           }
+        .bo{border-collapse: collapse;}
+        .im{width: 200px;
+            height: 260px;
+            padding-left: 4.2CM;}
+        .rcorners2 {
+            border-radius: 25px;
+            border: 2px solid #fcfcfc;
+            padding: 20px; 
+            width: 120px;
+            height: 80px;
+            padding-left: .85cm;
+            background-color: rgb(221, 221, 255);}
+        .ft{background-color:  rgb(238, 247, 246);}
+        .ftp{padding-left: 0%;}
+        .g{ background-image: linear-gradient(rgb(194, 121, 177), rgb(234,184,195));
+        }
+        .g1{ background-image: linear-gradient(rgb(241, 226, 187), rgb(255, 255, 255));
+        }
+        .OL{text-decoration: overline;
+            font-family: sans-serif;
+            font-size: 11PX;}
+        .gry{color: rgb(116, 124, 124);
+        }
+        .imm{width: 100%;}
+        .a1{font-family:"calibri" ;
+            font-weight: 700;
+            letter-spacing: 3px;
+            font-size: medium;
+            padding-top: 0cm; 
+        }
+        .v{vertical-align: top;
+          padding: 0px;}
+        .AR{font-family: ARIAL;}
+        .w{font-weight: 550;}
+        .sup {
+           vertical-align: middle;
+           
+          }
+        .sup1 {
+           vertical-align:7%;
+           
+          } 
+        .G{font-family: Georgia;} 
+        .s{font-family: arial;
+           font-size: 11px;
+           line-height: 1.4;}
+        .It{font-style: italic;}
+        
